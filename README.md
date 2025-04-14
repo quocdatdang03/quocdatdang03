@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Dat Dev luck</h1>
 <h3 align="center">A passionate java developer from VietNam</h3>
 
+<p align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExamI5dDZqOWZuMjRuZHFqN3Vsb2cybmdtcHU0YzA2aG84czRubTBmNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ws6T5PN7wHv3cY8xy8/giphy.gif" width="300" alt="Coding gif" />
+</p>
+
 - 🔭 I’m currently working on [java, spring framework](https://github.com/quocdatdang03/Shopping-Ecommerce.git)
 
 - 💬 Ask me about **java, spring**

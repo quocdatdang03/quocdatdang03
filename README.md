@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Dat Dev Luck</h1>
 <h3 align="center">A passionate Java Developer from Vietnam 🇻🇳</h3>
 
----
-
 <table>
   <tr>
-    <td>
+    <td valign="top" width="60%">
 
 ### 🔥 About Me
 
@@ -13,14 +11,12 @@
 - 💬 Ask me about **Java, Spring Boot, SQL**  
 - 📫 Reach me at: **dat03122003@gmail.com**
 
-</td>
-    <td align="center">
-      <img src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif" width="300" alt="Coding gif" />
+    </td>
+    <td align="center" width="40%">
+      <img src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif" width="250" alt="Coding gif" />
     </td>
   </tr>
 </table>
-
----
 
 ### 🌐 Connect with me
 
@@ -29,8 +25,6 @@
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
 </p>
-
----
 
 ### 🛠️ Languages and Tools
 
@@ -48,14 +42,9 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
 </p>
 
----
-
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=quocdatdang03&show_icons=true&theme=radical" alt="Dat's GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=quocdatdang03&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=quocdatdang03&show_icons=true&theme=radical" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=quocdatdang03&layout=compact&theme=radical" width="47%" />
 </p>

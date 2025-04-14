@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Dat Dev Luck</h1>
 <h3 align="center">A passionate Java Developer from Vietnam 🇻🇳</h3>
 
-<table>
+<table style="border: none; border-collapse: collapse; width: 100%;">
   <tr>
-    <td valign="top" width="60%">
+    <td valign="top" width="60%" style="border: none;">
 
 ### 🔥 About Me
 
@@ -12,8 +12,8 @@
 - 📫 Reach me at: **dat03122003@gmail.com**
 
     </td>
-    <td align="center" width="40%">
-      <img src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif" width="250" alt="Coding gif" />
+    <td align="center" width="40%" style="border: none;">
+      <img src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif" width="350" alt="Coding gif" />
     </td>
   </tr>
 </table>

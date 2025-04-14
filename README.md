@@ -1,17 +1,24 @@
 <h1 align="center">Hi 👋, I'm Dat Dev Luck</h1>
 <h3 align="center">A passionate Java Developer from Vietnam 🇻🇳</h3>
 
-<p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHk2bHN6djJudDJkbzk3eXZiNHpjemxhY2RlcGQ1M2hlZjhha2MzdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="300" alt="Coding gif" />
-</p>
-
 ---
+
+<table>
+  <tr>
+    <td>
 
 ### 🔥 About Me
 
 - 🔭 I’m currently working on [Java Spring E-commerce Project](https://github.com/quocdatdang03/Shopping-Ecommerce.git)  
 - 💬 Ask me about **Java, Spring Boot, SQL**  
 - 📫 Reach me at: **dat03122003@gmail.com**
+
+</td>
+    <td align="center">
+      <img src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif" width="300" alt="Coding gif" />
+    </td>
+  </tr>
+</table>
 
 ---
 

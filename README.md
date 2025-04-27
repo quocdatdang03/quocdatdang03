@@ -7,7 +7,7 @@
 
 ### 🔥 About Me
 
-- 🔭 I’m currently working on [Java Spring E-commerce Project](https://github.com/quocdatdang03/Shopping-Ecommerce.git)  
+- 🔭 I’m currently **working on Java, Spring Boot**
 - 💬 Ask me about **Java, Spring Boot, SQL**  
 - 📫 Reach me at: **dat03122003@gmail.com**
 

@@ -24,6 +24,9 @@
   <a href="https://www.facebook.com/share/fM9dp5ieDmPbAamX/?mibextid=LQQJ4d" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
+  <a href="https://www.linkedin.com/in/dat-dang-911932267/" target="_blank"> 
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> 
+  </a>
 </p>
 
 ### 🛠️ Languages and Tools
